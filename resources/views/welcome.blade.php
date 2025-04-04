@@ -4,7 +4,7 @@
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-
+        <a href="{{ route('task.index') }}" class="btn btn-default">Cancel</a>
         <style>
             html, body {
                 height: 100%;
